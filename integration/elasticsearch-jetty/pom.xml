@@ -11,7 +11,7 @@
 
   <properties>
     <elasticsearch.version>1.5.2</elasticsearch.version>
-    <jetty.version>9.4.35.v20201120</jetty.version>
+    <jetty.version>9.4.53.v20231009</jetty.version>
   </properties>
 
 
